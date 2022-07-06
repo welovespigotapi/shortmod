@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "shortmod",
+    "name": "ShortMod",
+    "description": "",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "WeLoveSpigotApi"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
